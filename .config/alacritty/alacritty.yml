@@ -1,0 +1,81 @@
+window:
+  opacity: 0.90
+  padding:
+    x: 2
+
+font:
+  size: 10
+  offset: 
+    x: 0
+    y: 2
+  normal:
+    # family: UbuntuMono Nerd Font
+    # family: DaddyTimeMono Nerd Font
+    # family: Hack Nerd Font
+    # family: JetBrainsMono Nerd Font
+    family: CaskaydiaCove Nerd Font
+    # family: VictorMono Nerd Font
+    style: Bold
+  bold:
+    family: UbuntuMono Nerd Font Mono
+    style: Bold
+  italic:
+    family: UbuntuMono Nerd Font Mono
+    style: Regular Italic
+  bold_italic:
+    family: UbuntuMono Nerd Font Mono
+    style: Bold Italic
+
+
+schemes:
+
+  perso:
+
+  darcula: &darcula
+    primary:
+      background: '0x0f101a'
+      # background: '0x282a36'
+      foreground: '0xc5c9de'
+    normal:
+      black:   '0x000000'
+      red:     '0xff5555'
+      green:   '0x50fa7b'
+      yellow:  '0xf1fa8c'
+      blue:    '0xcaa9fa'
+      magenta: '0xff79c6'
+      cyan:    '0x8be9fd'
+      white:   '0xbfbfbf'
+    bright:
+      black:   '0x282a35'
+      red:     '0xff6e67'
+      green:   '0x5af78e'
+      yellow:  '0xf4f99d'
+      blue:    '0xcaa9fa'
+      magenta: '0xff92d0'
+      cyan:    '0x9aedfe'
+      white:   '0xe6e6e6'
+
+  atom_one_light: &atom_one_light
+    primary:
+      background: '0xf8f8f8'
+      foreground: '0x2a2b33'
+    normal:
+      black:   '0x000000'
+      red:     '0xde3d35'
+      green:   '0x3e953a'
+      yellow:  '0xd2b67b'
+      blue:    '0x2f5af3'
+      magenta: '0xa00095'
+      cyan:    '0x3e953a'
+      white:   '0xbbbbbb'
+    bright:
+      black:   '0x000000'
+      red:     '0xde3d35'
+      green:   '0x3e953a'
+      yellow:  '0xd2b67b'
+      blue:    '0x2f5af3'
+      magenta: '0xa00095'
+      cyan:    '0x3e953a'
+      white:   '0xffffff'
+      
+colors: *darcula
