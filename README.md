@@ -40,6 +40,7 @@ sudo pacman -S qtile alacritty nitrogen picom rofi ranger git
 | visual-studio-code-bin  |             Text Editor|
 | intellij-idea-community |                Java IDE|
 | zip                     |              Compressor|
+| pacman-contrib          |            Checkupdates|
 
 
 
