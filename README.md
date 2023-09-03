@@ -21,6 +21,7 @@ sudo pacman -S qtile alacritty nitrogen picom rofi ranger git
 
 |        **Name**         |        **Type**        | 
 |-------------------------|:----------------------:|
+| xorg-xinit              |           xsession file|
 | lsd                     |              ls command|
 | bat                     |              cat comman| 
 | neovim                  |             Text Editor| 
