@@ -29,7 +29,7 @@ sudo pacman -S qtile alacritty nitrogen picom rofi ranger git
 | cbatticon               |            Battery Icon| 
 | nm-applet               |             Wifi Gestor|
 | flameshot               |          Screen Capture| 
-| udiskie, udiskie2       |   Disc Icon, Mount Disc|
+| udiskie, udisks2        |   Disc Icon, Mount Disc|
 | ntfs-3g                 |Support NTFS File System|
 | bash-completion         |       Autocomplete Bash|
 | python-psutil           |        Qtile Dependence| 
